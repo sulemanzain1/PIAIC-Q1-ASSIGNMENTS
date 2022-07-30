@@ -1,3 +1,3 @@
 # PIAIC-Q1-ASSIGNMENTS
-# Name: Muhammad Sulaiman
-# Roll No: PIAIC84560
+Name: Muhammad Sulaiman
+Roll No: PIAIC84560
